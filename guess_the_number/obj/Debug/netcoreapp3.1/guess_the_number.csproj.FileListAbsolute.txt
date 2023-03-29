@@ -1,0 +1,13 @@
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/guess_the_number/obj/Debug/netcoreapp3.1/guess_the_number.csprojAssemblyReference.cache
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/guess_the_number/obj/Debug/netcoreapp3.1/guess_the_number.AssemblyInfoInputs.cache
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/guess_the_number/obj/Debug/netcoreapp3.1/guess_the_number.AssemblyInfo.cs
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/guess_the_number/obj/Debug/netcoreapp3.1/guess_the_number.csproj.CoreCompileInputs.cache
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/guess_the_number/bin/Debug/netcoreapp3.1/guess_the_number
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/guess_the_number/bin/Debug/netcoreapp3.1/guess_the_number.deps.json
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/guess_the_number/bin/Debug/netcoreapp3.1/guess_the_number.runtimeconfig.json
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/guess_the_number/bin/Debug/netcoreapp3.1/guess_the_number.runtimeconfig.dev.json
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/guess_the_number/bin/Debug/netcoreapp3.1/guess_the_number.dll
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/guess_the_number/bin/Debug/netcoreapp3.1/guess_the_number.pdb
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/guess_the_number/obj/Debug/netcoreapp3.1/guess_the_number.dll
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/guess_the_number/obj/Debug/netcoreapp3.1/guess_the_number.pdb
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/guess_the_number/obj/Debug/netcoreapp3.1/guess_the_number.genruntimeconfig.cache

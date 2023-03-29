@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/belumat/.dotnet/store/|arch|/|tfm|",
+      "/home/belumat/.nuget/packages"
+    ]
+  }
+}
