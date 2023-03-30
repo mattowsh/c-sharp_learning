@@ -1,0 +1,13 @@
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/palindrome/obj/Debug/netcoreapp3.1/palindrome.csprojAssemblyReference.cache
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/palindrome/obj/Debug/netcoreapp3.1/palindrome.AssemblyInfoInputs.cache
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/palindrome/obj/Debug/netcoreapp3.1/palindrome.AssemblyInfo.cs
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/palindrome/obj/Debug/netcoreapp3.1/palindrome.csproj.CoreCompileInputs.cache
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/palindrome/bin/Debug/netcoreapp3.1/palindrome
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/palindrome/bin/Debug/netcoreapp3.1/palindrome.deps.json
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/palindrome/bin/Debug/netcoreapp3.1/palindrome.runtimeconfig.json
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/palindrome/bin/Debug/netcoreapp3.1/palindrome.runtimeconfig.dev.json
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/palindrome/bin/Debug/netcoreapp3.1/palindrome.dll
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/palindrome/bin/Debug/netcoreapp3.1/palindrome.pdb
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/palindrome/obj/Debug/netcoreapp3.1/palindrome.dll
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/palindrome/obj/Debug/netcoreapp3.1/palindrome.pdb
+/home/belumat/personal/csharp_linkedin/c-sharp_learning/palindrome/obj/Debug/netcoreapp3.1/palindrome.genruntimeconfig.cache
